@@ -74,7 +74,7 @@ Second, only the latest versions of these programs are supported and must be ins
 Run Wifite
 ----------
 ```
-git clone https://github.com/derv82/wifite2.git
+git clone https://github.com/trhacknon/wifite2.git
 cd wifite2
 sudo ./Wifite.py
 ```
